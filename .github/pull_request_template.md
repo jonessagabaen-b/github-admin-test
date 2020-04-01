@@ -1,4 +1,5 @@
 [JIRA TICKET ID] [TITLE]
+For this pull request title, include Jira ticket ID followed by a short descriptive title.
 
 [DESCRIPTION] 
-The associated Jira ticket will contain the information for why this pull request is created. The description should implementation details around this particular pull request.
+Have this request description contain implementation details of this particular code change.  Higher level details of why this pull request has been made should be found in the associated Jira ticket.
